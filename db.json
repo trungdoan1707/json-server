@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "students": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "TrungDoan"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
